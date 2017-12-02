@@ -7,4 +7,4 @@ Blog post: [https://medium.freecodecamp.org/the-time-i-had-to-crack-my-own-reddi
 
 Slides: [https://speakerdeck.com/haseebq/that-time-i-used-ruby-to-crack-my-reddit-password-kinda](https://speakerdeck.com/haseebq/that-time-i-used-ruby-to-crack-my-reddit-password-kinda)
 
-Video: (Will be uploaded once available)
+Video: [https://www.youtube.com/watch?v=ywiwq9IpDEU](https://www.youtube.com/watch?v=ywiwq9IpDEU)
